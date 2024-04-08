@@ -10,4 +10,5 @@ each other more than their spouses.
 
 # GAME DEMO
 ![image](https://github.com/lenduong/Marriage_Game/assets/141017307/549c4bea-0a7c-40a8-a35b-1d031a9b6c2a)
+
 ![image](https://github.com/lenduong/Marriage_Game/assets/141017307/76937add-dc52-4d70-b8db-7cdf087cd19e)
